@@ -1,0 +1,41 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "axa",
+        "bcb",
+        "ded"
+    ],
+    "key":
+    {
+        "x":
+        {
+            "item": "mekanism:pellet_plutonium"
+        },
+        "a":
+        {
+            "item": "minecraft:phantom_membrane"
+        },
+        "b":
+        {
+            "item": "mekanism:pellet_polonium"
+        },
+        "c":
+        {
+            "item": "mekanism:pellet_antimatter"
+        },
+        "d":
+        {
+            "item": "minecraft:feather"
+        },
+        "e":
+        {
+            "item": "mekanism:ultimate_induction_cell"
+        }
+    },
+    "result":
+    {
+        "item": "minecraft:elytra",
+        "count": 1
+    }
+}
